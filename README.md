@@ -112,4 +112,3 @@ Week 1: Introduction to Data Analytics in Health
   2. Work on a final project that integrates multiple course components.
   3. Present and critique peer projects.
 - Assignment: Complete a final project that involves analyzing a comprehensive health data set using SQL, BI tools, R/Python, machine learning, and AI. Present the findings and strategy recommendations to the class.
-![image](https://github.com/jasmineyliang/DH5160-AnalyticsAIHealthStrategies-JL-classroom/assets/150869870/b967e75b-52dc-43e3-a3ab-4b43f044a82e)
